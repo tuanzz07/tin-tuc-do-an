@@ -1,0 +1,32 @@
+{
+  "name": "tastepulse-food",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nền tảng tổng hợp tin tức và nội dung chuyên sâu ẩm thực, công thức món ngon, quán xá với Chế độ đọc tinh gọn (Reader Mode) và Vercel Edge Caching",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "fast-xml-parser": "^4.5.0",
+    "lucide-react": "^0.453.0",
+    "next": "14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.16.11",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.15",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5.6.3"
+  }
+}
